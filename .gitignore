@@ -1,0 +1,6 @@
+target/
+out/
+logs/
+archive/
+.idea/
+Archive.zip
